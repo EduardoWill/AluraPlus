@@ -4,7 +4,7 @@
 --cinza--:#C0C0C0;
 --botão--azul:#167BF7;      
 --font--principal:'Inter';
---botão--azul--claro:#549ef8;
+--botão--azul--claro:purple;
 }
 body{
     background-color: var(--cor--fundo);
